@@ -12,7 +12,7 @@ I coded this "benchmark" using ChatGPT from OpenAI. As it's suposed to run on co
 
 ## How to use this program
 
-You can either run this commands or create a custom .sh file to test it's speed. It's low, but you won't have to wait 14 minuts to compile like my classmate!
+You can either run this commands or create a custom .sh file to test it's speed. It's slow, but you won't have to wait 14 minuts to compile like my classmate!
 
 ```
 # Test make and it's different timing with different proccessors.
